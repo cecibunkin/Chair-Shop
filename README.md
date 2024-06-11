@@ -1,8 +1,8 @@
 ## About The Project
 
-![Chair Shop site](./assets/screenshot1.png)
-![Chair Shop site](./assets/screenshot2.png)
-![Chair Shop site](./assets/screenshot3.png)
+![Chair Shop site1](./assets/Screenshot1.png)
+![Chair Shop site2](./assets/Screenshot2.png)
+![Chair Shop site3](./assets/Screenshot3.png)
 
 Chair shop promo website.
 
